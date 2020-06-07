@@ -1,0 +1,50 @@
+[
+    {
+        "id": 27,
+        "name": "Daft Punk",
+        "link": "https://www.deezer.com/artist/27",
+        "share": "https://www.deezer.com/artist/27?utm_source=deezer&utm_content=artist-27&utm_term=0_1591538134&utm_medium=web",
+        "picture": "https://api.deezer.com/artist/27/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/f2bc007e9133c946ac3c3907ddc5d2ea/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/f2bc007e9133c946ac3c3907ddc5d2ea/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/f2bc007e9133c946ac3c3907ddc5d2ea/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/f2bc007e9133c946ac3c3907ddc5d2ea/1000x1000-000000-80-0-0.jpg",
+        "nb_album": 33,
+        "nb_fan": 3790915,
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/27/top?limit=50",
+        "type": "artist"
+        },
+        {
+            "id": 70,
+            "name": "Juanes",
+            "link": "https://www.deezer.com/artist/70",
+            "share": "https://www.deezer.com/artist/70?utm_source=deezer&utm_content=artist-70&utm_term=0_1591540038&utm_medium=web",
+            "picture": "https://api.deezer.com/artist/70/image",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/37735302c2b0baa014dddc4d52892109/56x56-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/37735302c2b0baa014dddc4d52892109/250x250-000000-80-0-0.jpg",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/37735302c2b0baa014dddc4d52892109/500x500-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/37735302c2b0baa014dddc4d52892109/1000x1000-000000-80-0-0.jpg",
+            "nb_album": 65,
+            "nb_fan": 1147240,
+            "radio": true,
+            "tracklist": "https://api.deezer.com/artist/70/top?limit=50",
+            "type": "artist"
+            },
+            {
+                "id": 100,
+                "name": "Bomb the Bass",
+                "link": "https://www.deezer.com/artist/100",
+                "share": "https://www.deezer.com/artist/100?utm_source=deezer&utm_content=artist-100&utm_term=0_1591540050&utm_medium=web",
+                "picture": "https://api.deezer.com/artist/100/image",
+                "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/37ae638b6acdd9d13542b1de4ccb8d1a/56x56-000000-80-0-0.jpg",
+                "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/37ae638b6acdd9d13542b1de4ccb8d1a/250x250-000000-80-0-0.jpg",
+                "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/37ae638b6acdd9d13542b1de4ccb8d1a/500x500-000000-80-0-0.jpg",
+                "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/37ae638b6acdd9d13542b1de4ccb8d1a/1000x1000-000000-80-0-0.jpg",
+                "nb_album": 20,
+                "nb_fan": 3781,
+                "radio": true,
+                "tracklist": "https://api.deezer.com/artist/100/top?limit=50",
+                "type": "artist"
+                }
+]
