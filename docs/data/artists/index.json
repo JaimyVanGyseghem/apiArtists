@@ -11,7 +11,8 @@
         "nb_fan": 12182,
         "radio": true,
         "tracklist": "https://api.deezer.com/artist/414744/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "Yo5fE-Zl-V4"
     },
     {
         "id": 1245,
@@ -26,7 +27,8 @@
         "nb_fan": 245196,
         "radio": true,
         "tracklist": "https://api.deezer.com/artist/1245/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "8VqQPBrhmaY"
     },
     {
         "id": 6691,
@@ -41,7 +43,8 @@
         "nb_fan": 172345,
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/6691/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "WbsDPbr8qoM"
     },
     {
         "id": 288567,
@@ -56,7 +59,8 @@
         "nb_fan": 415759,
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/288567/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "ckPEI4dYIlM"
     },
     {
         "id": 158710,
@@ -71,7 +75,8 @@
         "nb_fan": 659882,
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/158710/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "o_l4Ab5FRwM"
     },
     {
         "id": 4549887,
@@ -86,7 +91,8 @@
         "nb_fan": 2583,
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/4549887/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "O5Ltyqx2YQE"
     },
     {
         "id": 8254,
@@ -101,7 +107,8 @@
         "nb_fan": 8003,
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/8254/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "Bsi1TYQobew"
     },
     {
         "id": 12874,
@@ -116,22 +123,24 @@
         "nb_fan": 768110,
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/12874/top?limit=50",
-        "type": "artist"
+        "type": "artist",
+        "yt": "k9qDxyxS3s"
     },
     {
-        "id": 316,
-        "name": "Thrice",
-        "link": "http://www.deezer.com/artist/316",
-        "picture": "http://api.deezer.com/artist/316/image",
-        "picture_small": "http://cdn-images.deezer.com/images/artist/ca1ee1858540fcb2e7cc1dcbbddf48da/56x56-000000-80-0-0.jpg",
-        "picture_medium": "http://cdn-images.deezer.com/images/artist/ca1ee1858540fcb2e7cc1dcbbddf48da/250x250-000000-80-0-0.jpg",
-        "picture_big": "http://cdn-images.deezer.com/images/artist/ca1ee1858540fcb2e7cc1dcbbddf48da/500x500-000000-80-0-0.jpg",
-        "picture_xl": "https://www.sala-apolo.com/uploads/media/default/0001/02/thumb_1197_default_wide.jpeg",
-        "nb_album": 25,
-        "nb_fan": 30425,
+        "id": 108493,
+        "name": "Halestorm",
+        "link": "https://www.deezer.com/artist/108493",
+        "picture": "https://api.deezer.com/artist/108493/image",
+        "picture_small": "https://cdns-images.dzcdn.net/images/artist/20bb4fbfd20d9caf25d4464467ce79e5/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://cdns-images.dzcdn.net/images/artist/20bb4fbfd20d9caf25d4464467ce79e5/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://cdns-images.dzcdn.net/images/artist/20bb4fbfd20d9caf25d4464467ce79e5/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://cdns-images.dzcdn.net/images/artist/20bb4fbfd20d9caf25d4464467ce79e5/1000x1000-000000-80-0-0.jpg",
+        "nb_album": 35,
+        "nb_fan": 131412,
         "radio": true,
-        "tracklist": "http://api.deezer.com/artist/316/top?limit=50",
-        "type": "artist"
-    }
+        "tracklist": "https://api.deezer.com/artist/108493/top?limit=50",
+        "type": "artist",
+        "yt": "YpJAmlnBxoA"
+        }
 
 ]
