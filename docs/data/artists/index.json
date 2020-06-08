@@ -12,7 +12,9 @@
         "radio": true,
         "tracklist": "https://api.deezer.com/artist/414744/top?limit=50",
         "type": "artist",
-        "yt": "Yo5fE-Zl-V4"
+        "yt": "Yo5fE-Zl-V4",
+        "stage": "Main stage 2",
+        "bio": "Het uit Texas afkomstige Nothing More is een schoolvoorbeeld van een band die koppig haar eigen weg baant en pas na jaren wroeten in de marge eindelijk de verdiende erkenning kreeg. Pas na verschillende releases in eigen beheer en letterlijk honderden concerten stak de band, die in 2003 werd opgericht door drummer Jonny Hawkins en gitarist Mark Vollelunga, in 2014 de neus echt aan het venster toen Eleven Seven Music overstag ging en Nothing More op de wereld losliet. Omdat het met de lead zangers niet meteen vlotte, had Hawkins al in 2008 zijn drumkruk ingeruild voor een plek achter de microfoon. In 2017 maken ze de gedroomde overstap naar Europa om hun nieuwe album op de grote festivals voor te stellen."
     },
     {
         "id": 1245,
@@ -28,7 +30,9 @@
         "radio": true,
         "tracklist": "https://api.deezer.com/artist/1245/top?limit=50",
         "type": "artist",
-        "yt": "8VqQPBrhmaY"
+        "yt": "8VqQPBrhmaY",
+        "stage": "Main stage 2",
+        "bio": "In het begin van het nieuwe millennium stond een pak nieuwe bands klaar om zich op te werken naar de top. Sommige kregen mooie kansen en onder meer Metallica nam graag veelbelovend talent op sleeptouw, waaronder Trivium, de band rond frontman Matt Heafy. Trivium nam de geboden kansen met beide handen aan en groeide met elk nieuw album. Stevige moderne heavy metal is hun visitekaartje. Ondertussen hebben ze ook live bewezen hun mannetje te kunnen staan. Het is dan ook geen toeval dat de jongens een zesde keer op de GMM-festivalweide staan. Wij kijken er alvast naar uit."
     },
     {
         "id": 6691,
@@ -44,7 +48,9 @@
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/6691/top?limit=50",
         "type": "artist",
-        "yt": "WbsDPbr8qoM"
+        "yt": "WbsDPbr8qoM",
+        "stage": "Main stage 1",
+        "bio": "Twee jaar geleden stonden ze voor de eerste keer op de GMM en zorgden toen gelijk voor een van de hoogtepunten van het hele weekend. We zijn dan ook bijzonder verheugd dat de heren van Shinedown in 2018 terugkeren naar de festivalweide. Na hun passage in 2017 als support van Iron Maiden raakt het grote publiek ook in Europa stilaan vertrouwd met de klasbakken die Shinedown zijn. Tegen de zomer zullen ze normaal hun opvolger voor het album ‘Threat To Survival’ klaar hebben en daarop zul je zeker enkele knallers aantreffen. In combinatie met de vele hits uit het verleden zullen ze daarmee ongetwijfeld hoog scoren op het vlak van sfeer en gezelligheid. "
     },
     {
         "id": 288567,
@@ -60,7 +66,9 @@
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/288567/top?limit=50",
         "type": "artist",
-        "yt": "ckPEI4dYIlM"
+        "yt": "ckPEI4dYIlM",
+        "stage": "Main stage 1",
+        "bio": "Ooit zijn ze begonnen als een kleine screamo metalcoreband uit York UK, vijftien jaar later is Asking Alexandria uitgegroeid tot een volwaardig lid van de NWOBHM en spelen ze mee met de top van de Britse metalscene. Deze evolutie ging niet altijd gepaard met rozengeur en maneschijn. Zo besloot frontman Danny Worsnop de band op hun hoogtepunt te verlaten om zich te focussen op zijn nieuwe band, We Are Harlot. Hij werd in 2015 vervangen door de Oekraïense Denis Stoff, die ontdekt werd via zijn YouTubekanaal. Vorig jaar besloot Worsnop echter dat het tijd was voor zijn terugkeer. In 2018 presenteren we hen voor de derde keer, en dit keer in vol ornaat: Asking Alexandria op GMM!"
     },
     {
         "id": 158710,
@@ -76,39 +84,45 @@
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/158710/top?limit=50",
         "type": "artist",
-        "yt": "o_l4Ab5FRwM"
+        "yt": "o_l4Ab5FRwM",
+        "stage": "Main stage 1",
+        "bio": "In 2015 speelde Five Finger Death Punch voor de eerste keer op Graspop Metal Meeting, en wat voor een feest was dat! De Amerikanen hebben er altijd een erezaak van gemaakt om melodie en een vette groove in hun geluid te stoppen en dat is de reden waarom de muziek zo in de smaak valt bij een breed, groot publiek. De stoere metal en eveneens stoer ogende bandleden gaan ook nu weer potten breken. Laat dat nu iets zijn waar wij allemaal van houden. "
     },
     {
-        "id": 4549887,
-        "name": "Devour the Day",
-        "link": "http://www.deezer.com/artist/4549887",
-        "picture": "http://api.deezer.com/artist/4549887/image",
-        "picture_small": "http://cdn-images.deezer.com/images/artist/a4f684639f79a9c536d2299a273e8166/56x56-000000-80-0-0.jpg",
-        "picture_medium": "http://cdn-images.deezer.com/images/artist/a4f684639f79a9c536d2299a273e8166/250x250-000000-80-0-0.jpg",
-        "picture_big": "http://cdn-images.deezer.com/images/artist/a4f684639f79a9c536d2299a273e8166/500x500-000000-80-0-0.jpg",
-        "picture_xl": "http://cdn-images.deezer.com/images/artist/a4f684639f79a9c536d2299a273e8166/1000x1000-000000-80-0-0.jpg",
-        "nb_album": 5,
-        "nb_fan": 2583,
+        "id": 2092,
+        "name": "Alter Bridge",
+        "link": "https://www.deezer.com/artist/2092",
+        "picture": "https://api.deezer.com/artist/2092/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/3e362b3e39ac7f98d14e2f923b95bd31/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/3e362b3e39ac7f98d14e2f923b95bd31/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/3e362b3e39ac7f98d14e2f923b95bd31/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/3e362b3e39ac7f98d14e2f923b95bd31/1000x1000-000000-80-0-0.jpg",
+        "nb_album": 31,
+        "nb_fan": 169005,
         "radio": true,
-        "tracklist": "http://api.deezer.com/artist/4549887/top?limit=50",
+        "tracklist": "https://api.deezer.com/artist/2092/top?limit=50",
         "type": "artist",
-        "yt": "O5Ltyqx2YQE"
+        "yt": "fTvJ1TYORJg",
+        "stage": "Main stage 1",
+        "bio": "In het begin van hun carrière zag men Alter Bridge een beetje als een doorstart van Creed, maar dan met een bedeesde frontman die ook af en toe gitaar speelde. Ondertussen zijn we zes albums verder en behoord Alter Bridge tot een van de leading acts. We mogen zelf zeggen dat ze het bijna tot headline status hebben geschopt. Die bedeesde frontman, Myles Kennedy, heeft zich ontpopt tot een klasbak die minstens even goed zijn mannetje staat op gitaar als bandleider Mark Tremonti. Beiden zijn ook kind aan huis bij de GMM. Want naast drie gezamenlijke passages doken ze ook op als solo artiest, zoals Mark en konden we Myles zien schitteren als zanger bij Slash op diverse edities. Momenteel hebben ze met ‘Walk The Sky’ opnieuw de krachten gebundeld als Alter bridge en opnieuw verrassen ze vriend en vijand met ongekende schoonheid. Genre overstijgen haast en dat is niet meer dan terecht."
     },
     {
-        "id": 8254,
-        "name": "Darkest Hour",
-        "link": "http://www.deezer.com/artist/8254",
-        "picture": "http://api.deezer.com/artist/8254/image",
-        "picture_small": "http://e-cdn-images.deezer.com/images/artist/6641f116ab085fd1200750e15e8168b2/56x56-000000-80-0-0.jpg",
-        "picture_medium": "http://e-cdn-images.deezer.com/images/artist/6641f116ab085fd1200750e15e8168b2/250x250-000000-80-0-0.jpg",
-        "picture_big": "http://e-cdn-images.deezer.com/images/artist/6641f116ab085fd1200750e15e8168b2/500x500-000000-80-0-0.jpg",
-        "picture_xl": "http://e-cdn-images.deezer.com/images/artist/6641f116ab085fd1200750e15e8168b2/1000x1000-000000-80-0-0.jpg",
-        "nb_album": 14,
-        "nb_fan": 8003,
+        "id": 13953,
+        "name": "Volbeat",
+        "link": "https://www.deezer.com/artist/13953",
+        "picture": "https://api.deezer.com/artist/13953/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/20e238e669876cc9a2184677106d29f9/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/20e238e669876cc9a2184677106d29f9/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/20e238e669876cc9a2184677106d29f9/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/20e238e669876cc9a2184677106d29f9/1000x1000-000000-80-0-0.jpg",
+        "nb_album": 22,
+        "nb_fan": 443435,
         "radio": true,
-        "tracklist": "http://api.deezer.com/artist/8254/top?limit=50",
+        "tracklist": "https://api.deezer.com/artist/13953/top?limit=50",
         "type": "artist",
-        "yt": "Bsi1TYQobew"
+        "yt": "aXhjp85UNJI",
+        "stage": "Main stage 1",
+        "bio": "Na jaren stevige, in de death metal gewortelde albums te hebben gemaakt met Dominus besliste de Deense muzikant Michael Poulsen in 2001 het roer om te gooien. Meer rock-’n-roll, een dikke scheut Elvis en vooral het geloof in ‘ik kan het’ vormden de basis voor zijn nieuwe project: Volbeat. Het debuutalbum kon op heel wat positieve reacties rekenen in 2005 en twee jaar later speelde de band, op een bloedhete dag, voor het eerst in de Metal Dome, waar ze toen de spits mochten afbijten. Fast forward nu naar de 23ste editie van de GMM: de toenmalige opener heeft zich ontpopt tot een headliner van formaat, die het festival in stijl zal afsluiten. Niet alleen in Europa, ook wereldwijd is Volbeat een begrip geworden. Twee jaar geleden stonden tienduizenden mensen in de gietende regen te genieten en je kan er donder op zeggen dat in 2018 de band andermaal zal laten zien dat hun hoogtepunt nog lang niet bereikt is. Samen met het festival is Volbeat groot geworden en beiden staan ze nu waar ze thuishoren: aan de top."
     },
     {
         "id": 12874,
@@ -124,7 +138,9 @@
         "radio": true,
         "tracklist": "http://api.deezer.com/artist/12874/top?limit=50",
         "type": "artist",
-        "yt": "k9qDxyxS3s"
+        "yt": "k9qDxyxS3s",
+        "stage": "Main stage 2",
+        "bio": "Bring Me The Horizon bestaat tien jaar en dat moet gevierd worden. In tien jaar tijd is deze Engelse deathcore band uitgegroeid tot een vaste waarde in de hedendaagse scène. ‘Hedendaags’ kun je hun sound echt wel noemen want hun metalcore met death metalinvloeden is stevig verankerd in de 21ste eeuw. Op hun vorig jaar verschenen vierde studioalbum ‘Sempiternal’ verdwijnt de deathcore die hun vroege werk inspireerde weer wat verder in de achteruitkijkspiegel om plaats te maken voor prog rock en ambient elementen die de nieuwe cd een stuk veelzijdiger maken. Heel wat recensenten verwachten dat ‘Sempiternal’ nieuwe deuren zal openen voor BMTH. Met een album dat de kloof tussen brutaliteit en genialiteit moeiteloos overbrugt zouden ze wel eens gelijk kunnen krijgen"
     },
     {
         "id": 108493,
@@ -140,7 +156,9 @@
         "radio": true,
         "tracklist": "https://api.deezer.com/artist/108493/top?limit=50",
         "type": "artist",
-        "yt": "YpJAmlnBxoA"
-        }
+        "yt": "YpJAmlnBxoA",
+        "stage": "Main stage 1",
+        "bio": "Straffe zangeressen die voor metal kiezen, dat vinden wij altijd geweldig. Wanneer ze zich daarnaast kunnen ontpoppen tot een heus boegbeeld van ons geliefde muziekgenre dan zijn we gewoon fan. Lzzy Hale is zo een dame. Samen met haar broer en drummer Arejay, gitarist Joe en bassist Josh, heeft ze een bijzonder indrukwekkend parcours gereden. Op amper acht jaar tijd is ze er met Halestorm in geslaagd om door te groeien van kleine clubs naar grote zalen met een tienvoud aan capaciteit, en ook die verkopen ze uit. Ze brachten met ‘Vicious’ net hun vierde album uit en dat is andermaal een schot in de roos. Het spreekt dan ook voor zich dat de groep mag terugkeren naar Dessel na hun straffe prestatie van 2016. We zijn er zeker van dat ze ook dit jaar zullen uitgroeien tot een van dé smaakmakers van het festival. "
+    }
 
 ]
