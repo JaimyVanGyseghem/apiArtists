@@ -82,6 +82,7 @@
         "picture_medium": "http://cdn-images.deezer.com/images/artist/a8c777a359c8c183911db2fd52c3486b/250x250-000000-80-0-0.jpg",
         "picture_big": "http://cdn-images.deezer.com/images/artist/a8c777a359c8c183911db2fd52c3486b/500x500-000000-80-0-0.jpg",
         "picture_xl": "http://cdn-images.deezer.com/images/artist/a8c777a359c8c183911db2fd52c3486b/1000x1000-000000-80-0-0.jpg",
+        "picture_back": "https://jaimyvangyseghem.github.io/apiArtists/static/images/AA.png",
         "nb_album": 25,
         "nb_fan": 415759,
         "radio": true,
