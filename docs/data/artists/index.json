@@ -58,6 +58,7 @@
         "picture_medium": "http://cdn-images.deezer.com/images/artist/ef1d105d53fdc1982dd76776c80eebd4/250x250-000000-80-0-0.jpg",
         "picture_big": "http://cdn-images.deezer.com/images/artist/ef1d105d53fdc1982dd76776c80eebd4/500x500-000000-80-0-0.jpg",
         "picture_xl": "http://cdn-images.deezer.com/images/artist/ef1d105d53fdc1982dd76776c80eebd4/1000x1000-000000-80-0-0.jpg",
+        "picture_back": "https://jaimyvangyseghem.github.io/apiArtists/static/images/shinedown.png",
         "nb_album": 45,
         "nb_fan": 172345,
         "radio": true,
